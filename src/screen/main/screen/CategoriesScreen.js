@@ -3,7 +3,7 @@ import React from 'react'
 
 const CategoriesScreen = () => {
   return (
-    <View>
+    <View style={{justifyContent:'center',alignItems:'center',flex:1}}>
       <Text>CategoriesScreen</Text>
     </View>
   )

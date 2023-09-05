@@ -3,6 +3,7 @@ import React from 'react'
 import { NavigationContainer } from '@react-navigation/native'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
 import Index from './src/screen/Index'
+import CustomDrawer from './src/screen/main/screen/component/CustomDrawer'
 
 const App = () => {
   const Stack = createNativeStackNavigator()
@@ -19,6 +20,9 @@ const App = () => {
       </Stack.Navigator>
 
     </NavigationContainer>
+    // <View>
+    //   <CustomDrawer/>
+    // </View>
   )
 }
 

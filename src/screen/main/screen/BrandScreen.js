@@ -3,7 +3,7 @@ import React from 'react'
 
 const BrandScreen = () => {
   return (
-    <View>
+    <View style={{justifyContent:'center',alignItems:'center',flex:1}}>
       <Text>BrandScreen</Text>
     </View>
   )

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133149289355",
+    "project_id": "avvika-82572",
+    "storage_bucket": "avvika-82572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133149289355:android:5f7bffebbb5fa9f8c7dd8e",
+        "android_client_info": {
+          "package_name": "com.avvika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133149289355-5i5c6h5bqsc5ru4s0lbb1rl0lavioiv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVdhwLCZ0i8PDQuVYHyABJmqE4PGMvo14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133149289355-5i5c6h5bqsc5ru4s0lbb1rl0lavioiv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

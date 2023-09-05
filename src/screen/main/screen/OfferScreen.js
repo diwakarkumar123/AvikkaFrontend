@@ -3,7 +3,7 @@ import React from 'react'
 
 const OfferScreen = () => {
   return (
-    <View>
+    <View style={{justifyContent:'center',alignItems:'center',flex:1}}>
       <Text>OfferScreen</Text>
     </View>
   )
